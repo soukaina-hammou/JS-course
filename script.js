@@ -117,4 +117,3 @@ async function fetchData() {
 }
 
 fetchData().then((result) => console.log(result));
-
